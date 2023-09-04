@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Is -1a" > ls_cwd_content
